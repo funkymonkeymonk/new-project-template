@@ -1,2 +1,2 @@
 # AI model settings
-model: "gemini/gemini-2.5-pro-preview-03-25" # or your preferred model
+model: "ollama/qwen3:32b" # or your preferred model
